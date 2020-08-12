@@ -1,10 +1,10 @@
 {
-  "name": "appdmg",
+  "name": "@axosoft/appdmg",
   "version": "0.6.0",
   "license": "MIT",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
   "bin": "bin/appdmg.js",
-  "repository": "LinusU/node-appdmg",
+  "repository": "https://github.com/Axosoft/node-appdmg",
   "dependencies": {
     "async": "^1.4.2",
     "ds-store": "^0.1.5",
